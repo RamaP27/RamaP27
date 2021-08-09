@@ -51,7 +51,6 @@
 <!-- YOUTUBE:START -->
 - Natural Language Processing 
 - Optical character recognition projects 
-- 
 
 <!-- YOUTUBE:END -->
 ### 📺 Latest Project
