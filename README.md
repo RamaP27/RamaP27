@@ -1,10 +1,15 @@
 ### Hi there, I'm Utkarsh 👋
 
-## I'm a | Product Guy | Project lead @ Pehia | ML Engineer | Student
+## I'm a | Product Guy |  ML Engineer | Project lead @ Pehia | GDSC Lead @DSC-CUSAT | Student
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m an aspiring Computer Science enthusiast well-versed in many aspects of different domains.
 - 👯 I’m looking to collaborate with Machine Learning devs / ML Research Projects .
 - 🥅 2021 Goals: Looking to expand my learning in Product Management and dive deep into Deep learning.
+- I am up for mentoring students and helping them out.
+- I am involved with communities like Developers Students Club, Pehia Foundation , Tinkerhub Foundation, Pie & AI: Kochi and Agora. 
+- I am also a Mentor @ [Mentors Without Borders](https://www.mentorswithoutborders.net).
+- I'm passionate about diversity in tech and open source. 
+- I'm also interested in product  management .
 - ⚡ Fun fact: I love reading blogs and am learning French at the moment.
             : I also love to travel
 
