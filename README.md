@@ -1,11 +1,12 @@
 ### Hi there, I'm Utkarsh 👋
 
-## I'm a Student, Developer, and Teacher!!
+## I'm a | Product Guy | Project lead @ Pehia | ML Engineer | Student
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with React JS/React Native developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar / flute
+- 👯 I’m looking to collaborate with Machine Learning devs / ML Research Projects .
+- 🥅 2021 Goals: Looking to expand my learning in Product Management and dive deep into Deep learning.
+- ⚡ Fun fact: I love reading blogs and am learning French at the moment.
+            : I also love to travel
 
 
 ### Connect with me:
@@ -41,6 +42,14 @@
 
 ---
 
+### 📺 Latest Interests 
+
+<!-- YOUTUBE:START -->
+- Natural Language Processing 
+- Optical character recognition projects 
+- 
+
+<!-- YOUTUBE:END -->
 ### 📺 Latest Project
 
 <!-- YOUTUBE:START -->
