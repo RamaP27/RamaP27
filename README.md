@@ -1,6 +1,6 @@
 ### Hi there, I'm Utkarsh 👋
 
-## I'm a | Product Guy |  ML Engineer | Project lead @ Pehia | GDSC Lead @DSC-CUSAT | Student
+## I'm a | Product Guy |  ML Engineer | Project lead @ Pehia | GDSC Lead @DSC-CUSAT 
 
 - 🌱 I’m an aspiring Computer Science enthusiast well-versed in many aspects of different domains.
 - 👯 I’m looking to collaborate with Machine Learning devs / ML Research Projects .
