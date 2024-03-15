@@ -1,45 +1,35 @@
-### Hi there, I'm Rama 👋
+### Hi there, I'm Rama K P 👋
 
-## I'm a | Product Guy |  ML Engineer | Project lead @ Pehia | GDSC Lead @DSC-CUSAT 
+## I'm a | Team Leader | ML Engineer | Data Enthusiast |
 
-- 🌱 I’m an aspiring Computer Science enthusiast well-versed in many aspects of different domains.
-- 👯 I’m looking to collaborate with Machine Learning devs / ML Research Projects .
-- 🥅 2021 Goals: Looking to expand my learning in Product Management and dive deep into Deep learning.
-- I am up for mentoring students and helping them out.
-- I am involved with communities like Developers Students Club, Pehia Foundation , Tinkerhub Foundation, Pie & AI: Kochi and Agora. 
-- I am also a Mentor @ [Mentors Without Borders](https://www.mentorswithoutborders.net).
-- I'm passionate about diversity in tech and open source. 
-- I'm also interested in product  management .
-- ⚡ Fun fact: I love reading blogs and am learning French at the moment.
-            : I also love to travel
-
+- 🌱 Aspiring Computer Science enthusiast with a focus on leading teams and providing innovative solutions in consumer insights, customer data management, and analytics.
+- 👯 Looking to collaborate on Machine Learning projects and research initiatives.
+- 🥅 2021 Goals: Expanding knowledge in Product Management and diving deeper into Deep Learning.
+- 💡 Passionate about leveraging data for business solutions and fostering diversity in tech.
+- ⚡ Fun fact: I enjoy reading blogs and currently learning French.
+- 🤝 Open to mentoring opportunities and contributing to open-source projects.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="rama-k-prayaga | GitHub" width="22px" src="https://github.com/rama-k-prayaga" />][github]
+[<img align="left" alt="rama-k-prayaga | LinkedIn" width="22px" src="https://www.linkedin.com/in/rama-k-prayaga" />][linkedin]
+[<img align="left" alt="rama-k-prayaga | Kaggle" width="22px" src="https://www.kaggle.com/rama-k-prayaga" />][kaggle]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="26px" 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React" width="26px" src="https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
+<img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img align="left" alt="Power BI" width="26px" src="https://powerbi.microsoft.com/pictures/social-share-icons/product-logo-png.svg" />
+<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
 
 <br />
 <br />
@@ -62,6 +52,41 @@
 
 ---
 
-[instagram]: https://www.instagram.com/raj_utkarsh02/
-[linkedin]: https://www.linkedin.com/in/utkarsh-raj-906917171/
-[twitter]: https://twitter.com/UtkarshpyML
+[github]: https://github.com/rama-k-prayaga
+[linkedin]: https://www.linkedin.com/in/rama-k-prayaga
+[kaggle]: https://www.kaggle.com/rama-k-prayaga
+
+1. **ApnaaGrocery.com**
+   - Developed REST APIs for e-commerce functionalities using Spring Boot and MongoDB.
+   - Implemented microservices architecture with Docker containerization.
+   - Utilized Redis for application caching and interfaced with third-party APIs using RestTemplate.
+
+2. **Bhu-Rakshak**
+   - Led the development of an automated water sprinkler system using machine learning and deep learning.
+   - Designed soil moisture sensors and integrated drone technology for intelligent crop watering.
+   - Developed machine learning models for predictive analysis and control of watering schedules.
+
+---
+
+### Certifications
+
+- Agile Scrum Master
+- Project Management Professional (PMI)
+- ITIL Foundation
+- Azure Data Fundamentals (AZ900)
+- Cisco Certified Network Professional (CCNA)
+
+### Education
+
+**PG | Data Science & AI**
+IIT Roorkee | Feb 2020 - June 2022
+
+**UG | ECE**
+Pune University
+
+### Skills
+
+- Python, Java, SQL
+- Tableau, Scikit-learn, Pandas, Keras, TensorFlow, PyTorch
+- Docker, Kubernetes, Hadoop
+
