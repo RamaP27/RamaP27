@@ -11,9 +11,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rama-k-prayaga | GitHub" width="22px" src="https://github.com/rama-k-prayaga" />][github]
-[<img align="left" alt="rama-k-prayaga | LinkedIn" width="22px" src="https://www.linkedin.com/in/rama-k-prayaga" />][linkedin]
-[<img align="left" alt="rama-k-prayaga | Kaggle" width="22px" src="https://www.kaggle.com/rama-k-prayaga" />][kaggle]
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
