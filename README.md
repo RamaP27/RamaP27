@@ -6,7 +6,7 @@
 - 👯 Looking to collaborate on Machine Learning projects and research initiatives.
 - 🥅 2021 Goals: Expanding knowledge in Product Management and diving deeper into Deep Learning.
 - 💡 Passionate about leveraging data for business solutions and fostering diversity in tech.
-- ⚡ Fun fact: I enjoy reading blogs and currently learning French.
+- ⚡ Fun fact: I enjoy reading blogs and currently learning Japanese.
 - 🤝 Open to mentoring opportunities and contributing to open-source projects.
 
 ### Connect with me:
@@ -40,14 +40,15 @@
 
 <!-- YOUTUBE:START -->
 - Natural Language Processing 
-- Optical character recognition projects 
+- Optical character recognition projects
+- Women in Tech 
 
 <!-- YOUTUBE:END -->
 ### 📺 Latest Project
 
 <!-- YOUTUBE:START -->
 - X-ray Abnormality Detection model
-- Language Detection Model 
+- Language Detection Model [Bank loan Portfolio]
 <!-- YOUTUBE:END -->
 
 ---
@@ -87,6 +88,6 @@ Pune University
 ### Skills
 
 - Python, Java, SQL
-- Tableau, Scikit-learn, Pandas, Keras, TensorFlow, PyTorch
-- Docker, Kubernetes, Hadoop
+- Tableau, Scikit-learn, numpy,Pandas, Keras, TensorFlow, PyTorch
+- Docker, Kubernetes, Hadoop,Kafka,Databriks
 
