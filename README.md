@@ -88,6 +88,6 @@ Pune University
 ### Skills
 
 - Python, Java, SQL
-- Tableau, Scikit-learn, numpy,Pandas, Keras, TensorFlow, PyTorch
-- Docker, Kubernetes, Hadoop,Kafka,Databriks
+- Tableau, Scikit-learn, numpy, Pandas, Keras, TensorFlow, PyTorch
+- Docker, Kubernetes, Hadoop, Kafka, Databricks
 
