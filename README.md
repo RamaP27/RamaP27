@@ -1,4 +1,4 @@
-### Hi there, I'm Utkarsh 👋
+### Hi there, I'm Rama 👋
 
 ## I'm a | Product Guy |  ML Engineer | Project lead @ Pehia | GDSC Lead @DSC-CUSAT 
 
