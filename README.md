@@ -60,7 +60,7 @@
 1. **ApnaaGrocery.com**
    - Developed REST APIs for e-commerce functionalities using Spring Boot and MongoDB.
    - Implemented microservices architecture with Docker containerization.
-   - Utilized Redis for application caching and interfaced with third-party APIs using RestTemplate.
+   - Utilized Redis for application caching and interfaced with third-party APIs developed using WebClient.
 
 2. **Bhu-Rakshak**
    - Led the development of an automated water sprinkler system using machine learning and deep learning.
