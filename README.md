@@ -1,16 +1,16 @@
-### Hi there, I'm Utkarsh 👋
+### Hi there, I'm Rama 👋
 
-## I'm a | Product Guy |  ML Engineer | Project lead @ Pehia | GDSC Lead @DSC-CUSAT 
+## I'm a | Product Guy |  ML Engineer | Project lead @ IBM |  
 
 - 🌱 I’m an aspiring Computer Science enthusiast well-versed in many aspects of different domains.
 - 👯 I’m looking to collaborate with Machine Learning devs / ML Research Projects .
 - 🥅 2021 Goals: Looking to expand my learning in Product Management and dive deep into Deep learning.
 - I am up for mentoring students and helping them out.
-- I am involved with communities like Developers Students Club, Pehia Foundation , Tinkerhub Foundation, Pie & AI: Kochi and Agora. 
+- I am involved with communities like Developers Students Club, NARI Shakti Foundation , WonderWomen Foundation, Pie & AI . 
 - I am also a Mentor @ [Mentors Without Borders](https://www.mentorswithoutborders.net).
 - I'm passionate about diversity in tech and open source. 
 - I'm also interested in product  management .
-- ⚡ Fun fact: I love reading blogs and am learning French at the moment.
+- ⚡ Fun fact: I love reading blogs and am learning Japanese.
             : I also love to travel
 
 
@@ -62,6 +62,6 @@
 
 ---
 
-[instagram]: https://www.instagram.com/raj_utkarsh02/
-[linkedin]: https://www.linkedin.com/in/utkarsh-raj-906917171/
-[twitter]: https://twitter.com/UtkarshpyML
+[git]: https://www.linkedin.com/in/rama-k-prayaga/
+[linkedin]: [https://www.linkedin.com/in/rama-k-prayaga/]
+[kaggel]: https://www.kaggle.com/ramakprayaga
