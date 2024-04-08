@@ -27,7 +27,7 @@
 <img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
 <img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-<img align="left" alt="Power BI" width="26px" src="https://powerbi.microsoft.com/pictures/social-share-icons/product-logo-png.svg" />
+<img align="left" alt="Power BI" width="26px" src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" />
 <img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
 
