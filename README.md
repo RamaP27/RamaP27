@@ -82,9 +82,6 @@
 **PG | Data Science & AI**
 IIT Roorkee | Feb 2020 - June 2022
 
-**UG | ECE**
-Pune University
-
 ### Skills
 
 - Python, Java, SQL,GIT
