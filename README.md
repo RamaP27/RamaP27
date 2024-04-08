@@ -32,6 +32,7 @@
 <img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Power BI" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg"/>
 <img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="PyTorch" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" />
 
 <br />
 <br />
