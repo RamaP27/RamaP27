@@ -8,6 +8,7 @@
 - 💡 Passionate about leveraging data for business solutions and fostering diversity in tech.
 - ⚡ Fun fact: I enjoy reading blogs and currently learning Japanese.
 - 🤝 Open to mentoring opportunities and contributing to open-source projects.
+- https://medium.com/@rama27prayag9/bhu-rakshak-reimagining-irrigation-with-ai-iot-and-autonomous-drones-11245b030595
 
 ### Connect with me:
 
